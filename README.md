@@ -130,9 +130,6 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 
 ---
 
-
-## 📊 My GitHub Corner
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Corner
 
 <p align="center">
@@ -140,9 +137,12 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
     src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true"
     alt="Mayar's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="190"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=8"
-    alt="Mayar's Top Languages" />
+  
+<img height="190"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+alt="Mayar's Top Languages"
+/>
+
 </p>
 
 <p align="center">
