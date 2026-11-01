@@ -1,204 +1,105 @@
-
 # 💻🎀 Hey, I'm Mayar!
 
 <p align="center">
-  <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
+  <img src="assests/shy-cat.gif" width="150" alt="A shy cat"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%F0%9F%8E%93;Backend+Developer+in+the+making+%F0%9F%92%BB;Exploring+Game+Development+%F0%9F%8E%AE;Curious+mind%2C+creative+ideas%2C+lots+of+debugging." alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Backend+Development;Exploring+Game+Development;Turning+Ideas+Into+Code" alt="Typing SVG"/>
 </p>
 
+I'm a Computer Science graduate who enjoys building things, understanding how they work, and learning something new along the way.
+
+I have experience working with backend development and web technologies, and I'm currently exploring the world of game development. I enjoy experimenting with different technologies and turning ideas into actual projects.
+
 <p align="center">
-  <i>Welcome to my little corner of the internet.</i><br/>
-  <i>There is code, curiosity, and probably a bug somewhere.</i>
+  <img src="assests/coding-cat.gif" width="200" alt="A cat coding"/>
 </p>
 
 ---
 
-## ✿ A little about me
+## 🧰 My Tech Universe
 
-I'm Mayar, a Computer Science graduate who enjoys figuring out how things work and turning ideas into something real.
+**Languages**
 
-My journey has taken me through two different but equally interesting worlds:
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 💻 **Backend Development:** Where I build the logic, structure, and systems that make applications work.
-- 🎮 **Game Development:** Where programming meets creativity, and ideas turn into interactive experiences.
+**Frameworks & Development**
 
-I'm the kind of person who will probably ask *"Okay, but WHY does this work?"* before accepting a solution.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-I enjoy learning by building, experimenting, breaking things, fixing them, and occasionally wondering why I broke them in the first place.
+**Databases & Tools**
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## ✨ My two development worlds
+**Other Interests & Tools**
 
-### 01. 💻 Behind the scenes : Backend Development
-
-<p align="center">
-  <img src="assests/coding-cat.gif" width="260" alt="A cat working on a laptop"/>
-</p>
-
-I enjoy the part of development that users don't necessarily see but everything depends on.
-
-Things I've explored:
-
-- Building RESTful APIs with ASP.NET Core.
-- Database design and SQL.
-- Object-Oriented Programming.
-- Layered architecture and design patterns.
-- Authentication and authorization.
-- Application logic and backend integration.
-
-**My backend toolbox:**
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-8B7EC8?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-8B7EC8?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-8B7EC8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 02. 🎮 Into another world : Game Development
-
-A different kind of challenge, where logic meets imagination.
-
-I'm exploring game programming, understanding what happens behind the scenes of a game, and learning how all those little components work together.
-
-Things I'm exploring:
-
-- C++ and game programming fundamentals.
-- Unity and C#.
-- Game objects and transformations.
-- Vectors, movement, and collision detection.
-- Game mechanics and object-oriented design.
-
-**My game development toolbox:**
-
-<p>
-  <img src="https://img.shields.io/badge/C++-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-6C8EBF?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SFML-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+- MATLAB
+- Image Processing
+- 3ds Max
 
 ---
 
+## 🚀 Things I've Built
 
-## 🧰 My Technical Toolbox
+### 🎓 ScholaAI — AI-Powered Learning Platform
 
-<p align="center">
-  <b>💻 Programming Languages</b><br/><br/>
-  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
+An intelligent learning platform that connects students with tutors through personalized learning experiences.
 
-<p align="center">
-  <b>⚙️ Frameworks & Development</b><br/><br/>
-  <img src="https://img.shields.io/badge/.NET-8B7EC8?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-8B7EC8?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-6C8EBF?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
+- Worked on backend development using ASP.NET Core Web API.
+- Contributed to user management and session-related functionality.
+- Worked with layered architecture and API development.
 
-<p align="center">
-  <b>🗄️ Databases</b><br/><br/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+🔗 [View Project](https://github.com/hanasoliman72/ScholaAi)
 
-<p align="center">
-  <b>🎨 Graphics, Modeling & Image Processing</b><br/><br/>
-  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image_Processing-E16737?style=flat-square"/>
-  <img src="https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white"/>
-</p>
+### 🦉 OWLÉ — Little Digital Worlds
 
-<p align="center">
-  <b>🛠️ Tools & Platforms</b><br/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
+A creative project focused on personalized interactive digital invitations for special moments.
 
+- Built using HTML, CSS, and JavaScript.
+- Designed interactive experiences for weddings and celebrations.
+
+🔗 [Wedding Invitation](https://mayar820.github.io/wedding-invitation/)
+
+### 🎮 SFML Experiments
+
+Exploring C++ graphics programming and game development concepts.
+
+- Shape creation and movement.
+- Transformations and collision detection.
+- Experimenting with visual interactions.
 
 ---
 
-## 🚀 Things I've built
-
-A few projects that represent different parts of my journey.
-
-### 🎓 ScholaAI : Graduation Project
-
-An AI-powered learning platform connecting students and tutors through personalized learning experiences.
-
-Worked on backend functionality using ASP.NET Core Web API, including user management, session-related functionality, and application architecture.
-
-`C#` `ASP.NET Core` `SQL Server` `React` `TypeScript`
-
-[↗ Explore the repository](https://github.com/hanasoliman72/ScholaAi)
-
-### 🦉 OWLÉ : Little Digital Worlds
-
-A creative side project where I build personalized interactive digital invitations and experiences for special occasions.
-
-Because sometimes code can be a little more than just code.
-
-`HTML` `CSS` `JavaScript`
-
-[↗ Explore a wedding invitation](https://mayar820.github.io/wedding-invitation/)
-
-### 🟣 SFML Experiments
-
-A playground for learning C++ graphics programming, experimenting with shapes, movement, transformations, and collision detection.
-
-`C++` `SFML` `Graphics Programming`
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Corner
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true"
-    alt="Mayar's GitHub Stats"
-  />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-    alt="Mayar's Top Languages"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo"
-    alt="Mayar's GitHub Streak"
-  />
-</p>
-
-
-
-
----
-
-## 🌱 Currently...
-
-- Strengthening my backend development skills.
-- Exploring game programming and C++.
-- Learning through hands-on projects.
-- Understanding the architecture behind the applications and games I build.
-- Collecting new ideas and turning some of them into projects.
 
 ---
 
@@ -241,37 +142,29 @@ while (alive) {
 
 ---
 
-## 💌 Let's connect!
-
-Always happy to meet fellow developers, exchange ideas, collaborate, and discover interesting projects.
+## 👾 My GitHub Arcade
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayar-elsawaf-5701b4333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-8B9FE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" alt="Galaga contribution graph"/>
+</p>
+
+<p align="center">
+  <i>Because apparently, even my contributions need a little gaming.</i>
+</p>
+
+---
+
+## 💌 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayar-elsawaf-5701b4333/">
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayarsawaf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-8B9FE8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Stay curious. Keep building. And never stop asking why."</i> ✨
-</p>
-
----
-
-## 🎮 A little arcade break
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
-</p>
-
-<p align="center">
-  <i>Apparently, even my contributions need a little gaming break.</i> 🚀
-</p>
-
----
-
-<p align="center">
-  Thanks for stopping by! Hope you found something interesting here. ♡
+  <i>Thanks for stopping by! Keep creating, keep learning, and don't forget to save your code. 💜</i>
 </p>
