@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="assests/mayar-header.png" width="65%" alt="Hey, I'm Mayar!"/>
-</p>
+
+# Hey, I'm Mayar! 🎀
+
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
 </p>
@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJjMW15ZnVxaG1tNXl6OXVxMzloN29tOHppYzdrendzbTM4Ymg1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
 
 <table>
 <tr>
