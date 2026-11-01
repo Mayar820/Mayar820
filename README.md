@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="35" alt="Let's connect animation"/>Hey, I'm Mayar!
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="35" alt="Let's connect animation"/> Hey, I'm Mayar!
 
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
