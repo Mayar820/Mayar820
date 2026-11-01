@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="65" alt="Mayar animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="85" alt="Mayar animation"/>
   Hey, I'm Mayar!
 </h1>
 
