@@ -1,3 +1,4 @@
+
 # 💻🎀 Hey, I'm Mayar!
 
 <p align="center">
@@ -13,11 +14,6 @@
   <i>There is code, curiosity, and probably a bug somewhere.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayar820&style=flat-square&color=A78BFA&label=visitors"/>
-  <img src="https://img.shields.io/github/followers/Mayar820?style=flat-square&color=8B9FE8&label=followers"/>
-</p>
-
 ---
 
 ## ✿ A little about me
@@ -26,7 +22,7 @@ I'm Mayar, a Computer Science graduate who enjoys figuring out how things work a
 
 My journey has taken me through two different but equally interesting worlds:
 
-- 💻 **Backend Development:** Where I get to build the logic, structure, and systems that make applications work.
+- 💻 **Backend Development:** Where I build the logic, structure, and systems that make applications work.
 - 🎮 **Game Development:** Where programming meets creativity, and ideas turn into interactive experiences.
 
 I'm the kind of person who will probably ask *"Okay, but WHY does this work?"* before accepting a solution.
@@ -141,10 +137,6 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar820&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Mayar820&theme=transparent&hide_border=true&ring=A78BFA&fire=8B9FE8&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
-</p>
-
 ---
 
 ## 🌱 Currently...
@@ -182,11 +174,11 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 Always happy to meet fellow developers, exchange ideas, collaborate, and discover interesting projects.
 
 <p align="center">
-  <a href="www.linkedin.com/in/mayar-elsawaf-5701b4333">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-8B9FE8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mayar-elsawaf-5701b4333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-8B9FE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayarsawaf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hello-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -196,9 +188,17 @@ Always happy to meet fellow developers, exchange ideas, collaborate, and discove
 
 ---
 
+## 🎮 A little arcade break
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
 </p>
+
+<p align="center">
+  <i>Apparently, even my contributions need a little gaming break.</i> 🚀
+</p>
+
+---
 
 <p align="center">
   Thanks for stopping by! Hope you found something interesting here. ♡
