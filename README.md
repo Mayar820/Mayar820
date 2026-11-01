@@ -1,4 +1,4 @@
-# ୨୧ Hey, I'm Mayar!
+# 🎀 Hey, I'm Mayar!
 
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
@@ -35,7 +35,7 @@ I enjoy learning by building, experimenting, breaking things, fixing them, and o
 
 ---
 
-## ୨୧ My two development worlds
+## ✨ My two development worlds
 
 ### 01. 💻 Behind the scenes — Backend Development
 
@@ -81,6 +81,7 @@ Things I'm exploring:
 
 <p>
   <img src="https://img.shields.io/badge/C++-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io//badge/C%23-8B7EC8?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-6C8EBF?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
@@ -169,7 +170,7 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 9. Repeat.
 
 <p align="center">
-  <img src="assests/chaos-cat.jpg" width="180" alt="A mischievous cat sticking out its tongue"/>
+  <img src="assests/chaos-cat.gif" width="180" alt="A mischievous cat sticking out its tongue"/>
 </p>
 
 *It's called character development. Probably.*
