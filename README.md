@@ -1,7 +1,7 @@
 # ୨୧ Hey, I'm Mayar!
 
 <p align="center">
-  <img src="assets/shy-cat.png" width="180" alt="A shy little waving cat"/>
+  <img src="assets/shy-cat.gif" width="180" alt="A shy little waving cat"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I enjoy learning by building, experimenting, breaking things, fixing them, and o
 ### 01. 💻 Behind the scenes — Backend Development
 
 <p align="center">
-  <img src="assets/coding-cat.png" width="260" alt="A cat working on a laptop"/>
+  <img src="assets/coding-cat.gif" width="260" alt="A cat working on a laptop"/>
 </p>
 
 I enjoy the part of development that users don't necessarily see but everything depends on.
@@ -94,9 +94,7 @@ Things I'm exploring:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
