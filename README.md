@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZrZWxxcm50dTU1ZG9rajJwaGp1M2lkcHc1MHM1ZDVuNGYwZGFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="45" alt="Mayar animated title"/> Hey, I'm Mayar!
+  ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZrZWxxcm50dTU1ZG9rajJwaGp1M2lkcHc1MHM1ZDVuNGYwZGFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="45" alt="Mayar animated title"/> Hey, I'm Mayar!
 </p>
 
 <p align="center">
@@ -42,13 +42,13 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZrZWxxcm50dTU1ZG9rajJwaGp1M2lkcHc1MHM1ZDVuNGYwZGFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1OrIIOIcRTDaNidc5p/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Coding animation"/>  My Two Development Worlds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Coding animation"/> Behind the Scenes
+### Behind the Scenes
 
 **Backend Development**
 
@@ -69,7 +69,7 @@ The logic and systems that make applications work.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="28" alt="Game animation"/> Into Another World
+### Into Another World
 
 **Game Development**
 
