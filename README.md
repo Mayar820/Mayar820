@@ -33,7 +33,7 @@ I enjoy learning by building, experimenting, breaking things, fixing them, and o
 
 ## ✨ My two development worlds
 
-### 01. 💻 Behind the scenes — Backend Development
+### 01. 💻 Behind the scenes : Backend Development
 
 <p align="center">
   <img src="assests/coding-cat.gif" width="260" alt="A cat working on a laptop"/>
@@ -59,7 +59,7 @@ Things I've explored:
   <img src="https://img.shields.io/badge/SQL_Server-8B7EC8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 02. 🎮 Into another world — Game Development
+### 02. 🎮 Into another world : Game Development
 
 A different kind of challenge, where logic meets imagination.
 
@@ -102,7 +102,7 @@ Things I'm exploring:
 
 A few projects that represent different parts of my journey.
 
-### 🎓 ScholaAI — Graduation Project
+### 🎓 ScholaAI : Graduation Project
 
 An AI-powered learning platform connecting students and tutors through personalized learning experiences.
 
@@ -112,7 +112,7 @@ Worked on backend functionality using ASP.NET Core Web API, including user manag
 
 [↗ Explore the repository](https://github.com/hanasoliman72/ScholaAi)
 
-### 🦉 OWLÉ — Little Digital Worlds
+### 🦉 OWLÉ : Little Digital Worlds
 
 A creative side project where I build personalized interactive digital invitations and experiences for special occasions.
 
