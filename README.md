@@ -81,7 +81,7 @@ Things I'm exploring:
 
 <p>
   <img src="https://img.shields.io/badge/C++-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io//badge/C%23-8B7EC8?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-6C8EBF?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-6C8EBF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
