@@ -1,7 +1,7 @@
 # ୨୧ Hey, I'm Mayar!
 
 <p align="center">
-  <img src="assets/shy-cat.gif" width="180" alt="A shy little waving cat"/>
+  <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I enjoy learning by building, experimenting, breaking things, fixing them, and o
 ### 01. 💻 Behind the scenes — Backend Development
 
 <p align="center">
-  <img src="assets/coding-cat.gif" width="260" alt="A cat working on a laptop"/>
+  <img src="assests/coding-cat.gif" width="260" alt="A cat working on a laptop"/>
 </p>
 
 I enjoy the part of development that users don't necessarily see but everything depends on.
@@ -169,7 +169,7 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 9. Repeat.
 
 <p align="center">
-  <img src="assets/chaos-cat.jpg" width="180" alt="A mischievous cat sticking out its tongue"/>
+  <img src="assests/chaos-cat.jpg" width="180" alt="A mischievous cat sticking out its tongue"/>
 </p>
 
 *It's called character development. Probably.*
