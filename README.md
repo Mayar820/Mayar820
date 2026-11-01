@@ -130,12 +130,22 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 
 ---
 
-## 📊 My GitHub corner
+
+## 📊 My GitHub Corner
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayar820&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar820&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mayar820&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9"
+    height="180"
+    alt="Mayar's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar820&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    height="180"
+    alt="Most used programming languages"
+  />
 </p>
+
 
 ---
 
