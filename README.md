@@ -133,18 +133,24 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 
 ## 📊 My GitHub Corner
 
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Corner
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mayar820&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9"
-    height="180"
-    alt="Mayar's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar820&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-    height="180"
-    alt="Most used programming languages"
-  />
+  <img height="190"
+    src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true"
+    alt="Mayar's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="190"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=8"
+    alt="Mayar's Top Languages" />
 </p>
+
+<p align="center">
+  <img height="190"
+    src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo"
+    alt="Mayar's GitHub Streak" />
+</p>
+
 
 
 ---
@@ -159,21 +165,40 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 
 ---
 
-## 🐈 A developer's daily routine
+## 🐈 A Developer's Daily Routine
 
-1. Have an idea.
-2. Open Visual Studio.
-3. Write some code.
-4. Encounter an unexpected problem.
-5. Google it.
-6. Understand the problem.
-7. Fix it.
-8. Accidentally introduce another problem.
-9. Repeat.
+```cpp
+// Developer.exe has stopped working...
+while (alive) {
+    try {
+        have_an_idea();
+        open_visual_studio();
+        write_some_code();
+        run_program();
+    }
+    catch (Bug bug) {
+        google(bug);
+        understand(bug);
+        fix(bug);
+        accidentally_create_another_bug();
+    }
+
+    cout << "BUG BUG BUG BUG BUG..." << endl;
+    repeat();
+    // TODO: fix everything
+    // TODO: understand what happened
+    // TODO: get some sleep
+}
+```
 
 <p align="center">
   <img src="assests/chaos-cat.gif" width="180" alt="A mischievous cat sticking out its tongue"/>
 </p>
+
+<p align="center">
+  <i>Works on my machine. Until it doesn't.</i>
+</p>
+
 
 *It's called character development. Probably.*
 
