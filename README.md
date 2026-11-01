@@ -1,24 +1,29 @@
-# 💻🎀 Hey, I'm Mayar!
+# 💻 Hey, I'm Mayar!
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+I'm a Computer Science graduate who likes figuring out how things work, building things from scratch, and occasionally wondering why my code worked five minutes ago.
+
+I've explored different areas of development, from backend and web technologies to C++ graphics and game development.
+
+Currently learning, experimenting, breaking things, and hopefully fixing them.
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="assests/coding-cat.gif" width="190" alt="A cat coding"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="assests/shy-cat.gif" width="150" alt="A shy cat"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Backend+Development;Exploring+Game+Development;Turning+Ideas+Into+Code" alt="Typing SVG"/>
-</p>
-
-I'm a Computer Science graduate who enjoys building things, understanding how they work, and learning something new along the way.
-
-I have experience working with backend development and web technologies, and I'm currently exploring the world of game development. I enjoy experimenting with different technologies and turning ideas into actual projects.
-
-<p align="center">
-  <img src="assests/coding-cat.gif" width="200" alt="A cat coding"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Backend+Development;Game+Development+Enthusiast;Always+Learning+Something+New" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🧰 My Tech Universe
+## 🧰 Things I've Worked With
 
 **Languages**
 
@@ -30,20 +35,19 @@ I have experience working with backend development and web technologies, and I'm
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frameworks & Development**
+**Frameworks & Technologies**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Databases & Tools**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -51,46 +55,28 @@ I have experience working with backend development and web technologies, and I'm
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Other Interests & Tools**
+**Other Tools & Areas**
 
-- MATLAB
-- Image Processing
-- 3ds Max
+MATLAB · Image Processing · 3ds Max
 
 ---
 
-## 🚀 Things I've Built
+## 🚀 Featured Project
 
-### 🎓 ScholaAI — AI-Powered Learning Platform
+### 🎓 ScholaAI
 
-An intelligent learning platform that connects students with tutors through personalized learning experiences.
+An AI-powered learning platform designed to connect students and tutors through personalized learning experiences.
 
-- Worked on backend development using ASP.NET Core Web API.
-- Contributed to user management and session-related functionality.
-- Worked with layered architecture and API development.
+- ASP.NET Core Web API
+- User management and session-related functionality
+- Repository Pattern and Service Layer
+- JWT authentication
 
-🔗 [View Project](https://github.com/hanasoliman72/ScholaAi)
-
-### 🦉 OWLÉ — Little Digital Worlds
-
-A creative project focused on personalized interactive digital invitations for special moments.
-
-- Built using HTML, CSS, and JavaScript.
-- Designed interactive experiences for weddings and celebrations.
-
-🔗 [Wedding Invitation](https://mayar820.github.io/wedding-invitation/)
-
-### 🎮 SFML Experiments
-
-Exploring C++ graphics programming and game development concepts.
-
-- Shape creation and movement.
-- Transformations and collision detection.
-- Experimenting with visual interactions.
+🔗 [Explore ScholaAI](https://github.com/hanasoliman72/ScholaAi)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -154,7 +140,7 @@ while (alive) {
 
 ---
 
-## 💌 Let's Connect!
+## 💌 Find Me Here
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayar-elsawaf-5701b4333/">
@@ -166,5 +152,5 @@ while (alive) {
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by! Keep creating, keep learning, and don't forget to save your code. 💜</i>
+  <i>Thanks for visiting! 💜</i>
 </p>
