@@ -13,13 +13,6 @@
   <i>There is code, curiosity, and probably a bug somewhere.</i>
 </p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mayar820&style=flat&color=A78BFA&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Mayar820?style=flat&color=8B9FE8&label=Followers)](https://github.com/Mayar820)
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ✿ A Little About Me
