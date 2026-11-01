@@ -1,4 +1,4 @@
-# 🎀 Hey, I'm Mayar!
+# 💻🎀 Hey, I'm Mayar!
 
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
