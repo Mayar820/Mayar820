@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="45" alt="Mayar animation"/>
-  <strong>Hey, I'm Mayar!</strong>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="65" alt="Mayar animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayar!+%F0%9F%8E%80" alt="Hey, I'm Mayar!"/>
 </p>
 
 <p align="center">
