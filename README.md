@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="65" alt="Mayar animation"/>
-  <strong style="font-size: 30px;">Hey, I'm Mayar! </strong>
+<p align="left">
+  <img src="assests/mayar-header.png" width="65%" alt="Hey, I'm Mayar!"/>
 </p>
-
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
 </p>
