@@ -15,14 +15,14 @@
 
 ---
 
-## ✿ A Little About Me
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ✿ A Little About Me
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
 - 🎓 CS Graduate from **Assiut University**.
-- 🌸 ITI Game Programming Track : **Intake 47**.
+- 🌸 ITI Game Programming Track: **Intake 47**.
 - 💻 Interested in backend development and building applications.
 - 🎮 Exploring game programming, C++, and Unity.
 - 🧩 I love understanding how things work, not just making them work.
@@ -46,6 +46,7 @@
 <td width="50%" valign="top">
 
 ### 💻 Behind the Scenes
+
 **Backend Development**
 
 The logic and systems that make applications work.
@@ -57,15 +58,16 @@ The logic and systems that make applications work.
 - Authentication and authorization.
 
 <p align="center">
-  ![C#](https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-8B7EC8?style=flat-square&logo=dotnet&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-8B7EC8?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-8B7EC8?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/SQL_Server-8B7EC8?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Into Another World
+
 **Game Development**
 
 Where programming meets creativity and imagination.
@@ -77,9 +79,13 @@ Where programming meets creativity and imagination.
 - Game mechanics and object-oriented design.
 
 <p align="center">
-  ![C++](https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-6C8EBF?style=flat-square&logo=unity&logoColor=white)
-  ![SFML](https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white)
+  <img src="https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Unity-6C8EBF?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white" alt="SFML"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" alt="Animated coding character"/>
 </p>
 
 </td>
@@ -142,7 +148,7 @@ Where programming meets creativity and imagination.
 <tr>
 <td valign="top">
 
-### 🎓 ScholaAI : Graduation Project
+### 🎓 ScholaAI: Graduation Project
 
 An AI-powered learning platform connecting students and tutors through personalized learning experiences.
 
@@ -150,7 +156,11 @@ An AI-powered learning platform connecting students and tutors through personali
 
 `C#` `ASP.NET Core` `SQL Server` `React` `TypeScript`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanasoliman72/ScholaAi)
+<p align="center">
+  <a href="https://github.com/hanasoliman72/ScholaAi">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore ScholaAI on GitHub"/>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -168,9 +178,6 @@ An AI-powered learning platform connecting students and tutors through personali
   <img height="180" src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo" alt="Mayar's GitHub Streak"/>
 </p>
 
-<p align="center">
-  <i>My badges show the technologies I've worked with, while these cards show my GitHub activity.</i>
-</p>
 
 ---
 
@@ -207,7 +214,6 @@ while (alive) {
 <p align="center">
   <i>Works on my machine. Until it doesn't.</i>
 </p>
-
 
 *It's called character development. Probably.*
 
