@@ -84,17 +84,51 @@ Things I'm exploring:
 
 ---
 
-## 🧰 Other things I've worked with
 
-<p>
+## 🧰 My Technical Toolbox
+
+<p align="center">
+  <b>💻 Programming Languages</b><br/><br/>
+  <img src="https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>⚙️ Frameworks & Development</b><br/><br/>
+  <img src="https://img.shields.io/badge/.NET-8B7EC8?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-8B7EC8?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-6C8EBF?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🗄️ Databases</b><br/><br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🎨 Graphics, Modeling & Image Processing</b><br/><br/>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Image_Processing-E16737?style=flat-square"/>
+  <img src="https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🛠️ Tools & Platforms</b><br/><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -133,23 +167,26 @@ A playground for learning C++ graphics programming, experimenting with shapes, m
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Corner
 
 <p align="center">
-  <img height="190"
+  <img
     src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true"
-    alt="Mayar's GitHub Stats" />
-  &nbsp;&nbsp;
-  
-<img height="190"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-alt="Mayar's Top Languages"
-/>
-
+    alt="Mayar's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="190"
-    src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo"
-    alt="Mayar's GitHub Streak" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayar820&layout=compact&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    alt="Mayar's Top Languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo"
+    alt="Mayar's GitHub Streak"
+  />
+</p>
+
 
 
 
