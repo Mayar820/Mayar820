@@ -1,4 +1,7 @@
-# 💻🎀 Hey, I'm Mayar!
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
+  💻🎀 Hey, I'm Mayar!
+</h1>
 
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
@@ -15,7 +18,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ✿ A Little About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding animation"/> A Little About Me
 
 <table>
 <tr>
@@ -39,13 +42,13 @@
 
 ---
 
-## ✨ My Two Development Worlds
+## <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="35" alt="Creative animation"/> My Two Development Worlds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Behind the Scenes
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Coding animation"/> Behind the Scenes
 
 **Backend Development**
 
@@ -66,7 +69,7 @@ The logic and systems that make applications work.
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Into Another World
+### <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="28" alt="Game animation"/> Into Another World
 
 **Game Development**
 
@@ -84,13 +87,17 @@ Where programming meets creativity and imagination.
   <img src="https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white" alt="SFML"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Animated coding character"/>
+</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧰 My Technical Toolbox
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" alt="Tools animation"/> My Technical Toolbox
 
 <div align="center">
 
@@ -138,7 +145,7 @@ Where programming meets creativity and imagination.
 
 ---
 
-## 🚀 Things I've Built
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" alt="Rocket animation"/> Things I've Built
 
 <table>
 <tr>
@@ -164,7 +171,7 @@ An AI-powered learning platform connecting students and tutors through personali
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Corner
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="GitHub activity animation"/> My GitHub Corner
 
 <p align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="Mayar's GitHub Stats"/>
@@ -174,10 +181,9 @@ An AI-powered learning platform connecting students and tutors through personali
   <img height="180" src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo" alt="Mayar's GitHub Streak"/>
 </p>
 
-
 ---
 
-## 🐈 A Developer's Daily Routine
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Cat animation"/> A Developer's Daily Routine
 
 ```cpp
 // Developer.exe has stopped working...
@@ -215,7 +221,7 @@ while (alive) {
 
 ---
 
-## 💌 Let's connect!
+## <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="35" alt="Envelope animation"/> Let's connect!
 
 Always happy to meet fellow developers, exchange ideas, collaborate, and discover interesting projects.
 
@@ -234,7 +240,7 @@ Always happy to meet fellow developers, exchange ideas, collaborate, and discove
 
 ---
 
-## 🎮 A little arcade break
+## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="35" alt="Arcade animation"/> A little arcade break
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
