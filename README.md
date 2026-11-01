@@ -15,27 +15,23 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ✿ A Little About Me
+## ✿ A Little About Me
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-- 🎓 Computer Science Graduate from **Assiut University**.
-- 🌸 ITI Game Programming Track — **Intake 47**.
-- 💻 Interested in backend development and understanding how applications work behind the scenes.
-- 🎮 Exploring game programming, C++, Unity, and the logic behind interactive experiences.
-- 🧩 I enjoy understanding systems, experimenting with ideas, and learning by building.
-- 🌱 Always curious about something new.
-
-<br/>
-
-I’m the kind of person who will probably ask *"Okay, but WHY does this work?"* before accepting a solution.
+- 🎓 CS Graduate from **Assiut University**.
+- 🌸 ITI Game Programming Track : **Intake 47**.
+- 💻 Interested in backend development and building applications.
+- 🎮 Exploring game programming, C++, and Unity.
+- 🧩 I love understanding how things work, not just making them work.
+- 🌱 Always learning, experimenting, and building.
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="assests/coding-cat.gif" width="250" alt="A cat working on a laptop"/>
+<img src="assests/coding-cat.gif" width="240" alt="A cat working on a laptop"/>
 
 </td>
 </tr>
@@ -52,14 +48,19 @@ I’m the kind of person who will probably ask *"Okay, but WHY does this work?"*
 ### 💻 Behind the Scenes
 **Backend Development**
 
-I enjoy the part of development that users don't necessarily see, but everything depends on.
+The logic and systems that make applications work.
 
-- Building RESTful APIs with ASP.NET Core.
-- Database design and SQL.
-- Object-Oriented Programming.
-- Layered architecture and design patterns.
+- RESTful APIs with ASP.NET Core.
+- Databases and SQL.
+- OOP and design patterns.
+- Layered architecture.
 - Authentication and authorization.
-- Application logic and backend integration.
+
+<p align="center">
+  ![C#](https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-8B7EC8?style=flat-square&logo=dotnet&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-8B7EC8?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -67,14 +68,19 @@ I enjoy the part of development that users don't necessarily see, but everything
 ### 🎮 Into Another World
 **Game Development**
 
-A different kind of challenge, where logic meets imagination.
+Where programming meets creativity and imagination.
 
 - C++ and game programming fundamentals.
 - Unity and C#.
 - Game objects and transformations.
 - Vectors, movement, and collision detection.
 - Game mechanics and object-oriented design.
-- Exploring how games work behind the scenes.
+
+<p align="center">
+  ![C++](https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-6C8EBF?style=flat-square&logo=unity&logoColor=white)
+  ![SFML](https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white)
+</p>
 
 </td>
 </tr>
@@ -120,7 +126,7 @@ A different kind of challenge, where logic meets imagination.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🎨 Graphics, Modeling & Image Processing
+### 🎨 Other Tools & Interests
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image_Processing-E16737?style=for-the-badge)
@@ -132,23 +138,15 @@ A different kind of challenge, where logic meets imagination.
 
 ## 🚀 Things I've Built
 
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40" alt="Project animation"/>
-</p>
-
 <table>
 <tr>
 <td valign="top">
 
-### 🎓 ScholaAI — Graduation Project
+### 🎓 ScholaAI : Graduation Project
 
 An AI-powered learning platform connecting students and tutors through personalized learning experiences.
 
-**My contribution:**
-- Backend development using ASP.NET Core Web API.
-- User management and session-related functionality.
-- Repository Pattern and Service Layer.
-- JWT authentication and application architecture.
+**My contribution:** Backend development with ASP.NET Core Web API, user management, session functionality, and application architecture.
 
 `C#` `ASP.NET Core` `SQL Server` `React` `TypeScript`
 
@@ -171,7 +169,7 @@ An AI-powered learning platform connecting students and tutors through personali
 </p>
 
 <p align="center">
-  <i>My stats show my GitHub activity. The technology badges above show the languages and tools I've worked with — including work in cloned and collaborative repositories.</i>
+  <i>My badges show the technologies I've worked with, while these cards show my GitHub activity.</i>
 </p>
 
 ---
@@ -203,4 +201,49 @@ while (alive) {
 ```
 
 <p align="center">
-  <img src="assests/
+  <img src="assests/chaos-cat.gif" width="180" alt="A mischievous cat sticking out its tongue"/>
+</p>
+
+<p align="center">
+  <i>Works on my machine. Until it doesn't.</i>
+</p>
+
+
+*It's called character development. Probably.*
+
+---
+
+## 💌 Let's connect!
+
+Always happy to meet fellow developers, exchange ideas, collaborate, and discover interesting projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayar-elsawaf-5701b4333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-8B9FE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mayarsawaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Stay curious. Keep building. And never stop asking why."</i> ✨
+</p>
+
+---
+
+## 🎮 A little arcade break
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
+</p>
+
+<p align="center">
+  <i>Apparently, even my contributions need a little gaming break.</i> 🚀
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! Hope you found something interesting here. ♡
+</p>
