@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayar!+%F0%9F%8E%80" alt="Hey, I'm Mayar!"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZrZWxxcm50dTU1ZG9rajJwaGp1M2lkcHc1MHM1ZDVuNGYwZGFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="45" alt="Mayar animated title"/>
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35" alt="Computer animation"/> My Two Development Worlds
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZrZWxxcm50dTU1ZG9rajJwaGp1M2lkcHc1MHM1ZDVuNGYwZGFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1OrIIOIcRTDaNidc5p/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
 
 <table>
 <tr>
@@ -92,7 +93,7 @@ Where programming meets creativity and imagination.
 
 ---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" alt="Coding animation"/> My Technical Toolbox
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZueTNyMXM1ZmUxOTlrM3g1bHZ0eHVyMW8wZWoyODNiY2VqeHhmdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bCBZaPWhl515tcyVjo/giphy.gif" width="35" alt="Toolbox animation"/> My Technical Toolbox
 
 <div align="center">
 
@@ -140,7 +141,7 @@ Where programming meets creativity and imagination.
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" alt="Rocket animation"/> Things I've Built
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcwandzMTN5ZDdlMWF4OHZveWZjcnNjdHl0bjVuenJ0dXRiMG1zbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9oa3sE4IdWbqO61WGT/giphy.gif" width="35" alt="Projects animation"/> Things I've Built
 
 <table>
 <tr>
@@ -166,7 +167,7 @@ An AI-powered learning platform connecting students and tutors through personali
 
 ---
 
-## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Cat animation"/> A Developer's Daily Routine
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjcyNnBpdDUya3dianNvYjdjb29qZ25sM3A5OWM3dnJ6NWluMnAxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yn7ExevTBBvRzDdYmw/giphy.gif" width="35" alt="Developer routine animation"/> A Developer's Daily Routine
 
 ```cpp
 // Developer.exe has stopped working...
@@ -204,7 +205,7 @@ while (alive) {
 
 ---
 
-## <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="35" alt="Envelope animation"/> Let's connect!
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1d5QhIzyTEMs9UxMKx/giphy.gif" width="35" alt="Let's connect animation"/> Let's connect!
 
 Always happy to meet fellow developers, exchange ideas, collaborate, and discover interesting projects.
 
@@ -222,7 +223,8 @@ Always happy to meet fellow developers, exchange ideas, collaborate, and discove
 </p>
 
 ---
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35" alt="Retro gaming animation"/> A little arcade break
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmZ4a3psc2hkODdxbzQ0NnB0cXY3OTl0YXBsOW5kZTVxdHRmYml1YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EJwaLaurIfssRNp3Ey/giphy.gif" width="35" alt="Retro gaming animation"/> A little arcade break
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
