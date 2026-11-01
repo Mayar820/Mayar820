@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
-  💻🎀 Hey, I'm Mayar!
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayar!+%F0%9F%8E%80" alt="Hey, I'm Mayar!"/>
+</p>
 
 <p align="center">
   <img src="assests/shy-cat.gif" width="180" alt="A shy little waving cat"/>
@@ -42,7 +41,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="35" alt="Creative animation"/> My Two Development Worlds
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35" alt="Computer animation"/> My Two Development Worlds
 
 <table>
 <tr>
@@ -87,17 +86,13 @@ Where programming meets creativity and imagination.
   <img src="https://img.shields.io/badge/SFML-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white" alt="SFML"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Animated coding character"/>
-</p>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35" alt="Tools animation"/> My Technical Toolbox
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" alt="Coding animation"/> My Technical Toolbox
 
 <div align="center">
 
@@ -171,18 +166,6 @@ An AI-powered learning platform connecting students and tutors through personali
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="GitHub activity animation"/> My GitHub Corner
-
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mayar820&show_icons=true&title_color=A78BFA&icon_color=8B9FE8&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="Mayar's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Mayar820&background=0D1117&ring=A78BFA&fire=8B9FE8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B9FE8&dates=cccccc&border=A78BFA&hide_border=true&timezone=Africa%2FCairo" alt="Mayar's GitHub Streak"/>
-</p>
-
----
-
 ## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Cat animation"/> A Developer's Daily Routine
 
 ```cpp
@@ -239,8 +222,7 @@ Always happy to meet fellow developers, exchange ideas, collaborate, and discove
 </p>
 
 ---
-
-## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="35" alt="Arcade animation"/> A little arcade break
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35" alt="Retro gaming animation"/> A little arcade break
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayar820/Mayar820/output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution game animation"/>
