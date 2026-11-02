@@ -41,8 +41,9 @@
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
-<p align="center">
+
 <table>
+<p align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -87,8 +88,9 @@ Where programming meets creativity and imagination.
 
 </td>
 </tr>
-</table>
 </p>
+</table>
+
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZueTNyMXM1ZmUxOTlrM3g1bHZ0eHVyMW8wZWoyODNiY2VqeHhmdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bCBZaPWhl515tcyVjo/giphy.gif" width="35" alt="Toolbox animation"/> My Technical Toolbox
