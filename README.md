@@ -41,10 +41,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/>
-  My Two Development Worlds
-</h2>
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
 
 <table align="center">
 <tr>
