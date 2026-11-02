@@ -38,26 +38,33 @@
 </tr>
 </table>
 
+
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/> My Two Development Worlds
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMwbnZ1NngxbTQyZzhoaXByN2dhM3ZwZG90aTR6Mnhtcnd5ems4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gGk5hOipHAUcqdCXFs/giphy.gif" width="35" alt="Development animation"/>
+  My Two Development Worlds
+</h2>
 
-<table>
-<p align="center">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Behind the Scenes
+<h3>💻 Behind the Scenes</h3>
 
 **Backend Development**
 
 The logic and systems that make applications work.
+
+<div align="left">
 
 - RESTful APIs with ASP.NET Core.
 - Databases and SQL.
 - OOP and design patterns.
 - Layered architecture.
 - Authentication and authorization.
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-8B7EC8?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -66,19 +73,24 @@ The logic and systems that make applications work.
 </p>
 
 </td>
-<td width="50%" valign="top">
 
-### Into Another World
+<td width="50%" align="center" valign="top">
+
+<h3>🎮 Into Another World</h3>
 
 **Game Development**
 
 Where programming meets creativity and imagination.
+
+<div align="left">
 
 - C++ and game programming fundamentals.
 - Unity and C#.
 - Game objects and transformations.
 - Vectors, movement, and collision detection.
 - Game mechanics and object-oriented design.
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-6C8EBF?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -88,7 +100,6 @@ Where programming meets creativity and imagination.
 
 </td>
 </tr>
-</p>
 </table>
 
 ---
